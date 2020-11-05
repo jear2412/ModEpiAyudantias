@@ -1,2 +1,12 @@
 # ModEpiAyudantias
-Ayudantias de Modelacion Epidemiologica Ago-Dic 2020
+Ayudantías de Modelación Epidemiológica Ago-Dic 2020
+
+
+**Sesión 1:**
+Introducción a Python
+
+**Sesión 2:**
+MCMC , t-walk y un ejemplo de estimacion de parámetros via MCMC en el modelo SIR. Datos de influenza boarding British school 1978.
+
+**Sesión 3:**
+Solución de Tarea: estimación de parámetros via MCMC en modelo SEIR. 
