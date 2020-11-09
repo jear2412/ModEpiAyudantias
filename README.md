@@ -1,5 +1,5 @@
 # ModEpiAyudantias
-Ayudantías de Modelación Epidemiológica Ago-Dic 2020
+Ayudantías de Modelación Epidemiológica CIMAT Ago-Dic 2020
 
 
 **Sesión 1:**
