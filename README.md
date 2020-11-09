@@ -10,3 +10,6 @@ MCMC , t-walk y un ejemplo de estimacion de parámetros via MCMC en el modelo SI
 
 **Sesión 3:**
 Solución de Tarea: estimación de parámetros via MCMC en modelo SEIR. 
+
+**BinomialMCEpiModels:**
+Modelos Epidemiologicos de cadenas de Markov binomiales: Greenwood y Reed-Frost 
