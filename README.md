@@ -1,7 +1,6 @@
 # ModEpiAyudantias
 Ayudantías de Modelación Epidemiológica CIMAT Ago-Dic 2020
 
-
 **Sesión 1:**
 Introducción a Python
 
@@ -13,3 +12,6 @@ Solución de Tarea: estimación de parámetros via MCMC en modelo SEIR.
 
 **BinomialMCEpiModels:**
 Modelos Epidemiologicos de cadenas de Markov binomiales: Greenwood y Reed-Frost 
+
+**SIRGillespie**:
+Gillespie para simular trayectorias del modelo SIR 
