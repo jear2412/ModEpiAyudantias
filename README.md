@@ -15,3 +15,15 @@ Modelos Epidemiologicos de cadenas de Markov binomiales: Greenwood y Reed-Frost
 
 **SIRGillespie**:
 Gillespie para simular trayectorias del modelo SIR 
+
+***KerasDay1***
+Keras TensorFlow sesión 1
+
+***KerasDay2_Model_1_2***
+Keras TensorFlow sesión 2 modelo 1
+
+***KerasDay2_Model_3***
+Keras TensorFlow sesión 2 modelo 3
+
+***KerasDay2_Model_4***
+Keras TensorFlow sesión 2 modelo 4
